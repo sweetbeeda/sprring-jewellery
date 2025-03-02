@@ -7,8 +7,6 @@
     padding: 0;
     font-family: "Inter", sans-serif;
     list-style: none;
-    padding-bottom: 20px;
-    display: none;
 }
 
 /* this all are banner style starts */
@@ -294,5 +292,6 @@ span {
     line-height: 30px;
     text-transform: underline;
     color: rgb(210, 233, 210);
+    padding-bottom: 10px;
 
 }
